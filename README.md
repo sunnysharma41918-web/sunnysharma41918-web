@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sunny%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=55" />
+</p>
 <h1 align="center">Hi 👋, I'm Sunny Sharma</h1>
 <h3 align="center">Data Analyst | Data Scientist | Turning Data into Insights 📊</h3>
 
