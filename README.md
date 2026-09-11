@@ -1,194 +1,103 @@
 <div align="center">
 
-# YOUR_NAME
+<!-- Animated typing intro -->
+<a href="https://github.com/sunnysharma41918-web">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Sunny+Sharma+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### YOUR_ROLE · YOUR_SPECIALTY
+<!-- Profile banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-I build thoughtful, reliable digital products that solve real problems and create measurable value.
+</div>
 
-<p>
-  <a href="https://your-website.com">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">LinkedIn</a>
-  ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
-  ·
-  <a href="https://twitter.com/YOUR_USERNAME">X / Twitter</a>
+## 🧑‍💻 About Me
+
+- 🔭 I'm currently working on exciting **full-stack** & **open-source** projects
+- 🌱 I'm currently learning new technologies to level up my skills
+- ⚡ Fun fact: I love turning ideas into clean, working code
+- 📫 Reach me at **sunnysharma41918@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/The_Sunnysharma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/sunny-sharma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sunnysharma41918@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode,figma,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sunnysharma41918-web&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunnysharma41918-web&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sunnysharma41918-web&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## About
+## 🏆 GitHub Trophies
 
-I am a `YOUR_ROLE` focused on `YOUR_PRIMARY_FOCUS`.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnysharma41918-web&theme=radical&no-frame=true&row=1&column=7" />
+</div>
 
-My work sits at the intersection of:
+---
 
-- Product thinking
-- Clean, maintainable engineering
-- Practical user experience
-- Automation and continuous improvement
-- Clear technical communication
+## 📈 Contribution Activity Graph
 
-I enjoy turning ambiguous ideas into simple, scalable systems. My approach combines strong fundamentals with a bias toward shipping useful work, learning from real feedback, and improving continuously.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnysharma41918-web&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
-## What I Do
+---
 
-- Design and build production-ready applications
-- Develop reliable APIs, services, and integrations
-- Create accessible and high-quality user interfaces
-- Improve performance, developer experience, and system reliability
-- Automate repetitive workflows and operational processes
-- Collaborate with teams to turn business requirements into effective technical solutions
+## 🐍 Contribution Snake
 
-## Selected Work
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sunnysharma41918-web/sunnysharma41918-web/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+> ℹ️ To enable the snake animation above, set up the [`platane/snk`](https://github.com/Platane/snk) GitHub Action on your profile repo — it auto-generates and commits the SVG on a schedule.
 
-### Project One
+---
 
-A concise description of the problem this project solves and why it matters.
+## 💬 Random Dev Quote
 
-**Stack:** `TypeScript` `React` `Node.js` `PostgreSQL`
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-[Live Demo](https://your-project-url.com) · [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
-    </td>
-    <td width="50%" valign="top">
-
-### Project Two
-
-A concise description of the product, platform, or system you built.
-
-**Stack:** `Python` `FastAPI` `Docker` `AWS`
-
-[Live Demo](https://your-project-url.com) · [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### Project Three
-
-A concise description focused on the outcome, technical challenge, or user impact.
-
-**Stack:** `Next.js` `Tailwind CSS` `Prisma` `PostgreSQL`
-
-[Live Demo](https://your-project-url.com) · [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
-    </td>
-    <td width="50%" valign="top">
-
-### Project Four
-
-A concise description of an open-source project, experiment, or technical contribution.
-
-**Stack:** `Go` `Redis` `Kubernetes` `GitHub Actions`
-
-[Live Demo](https://your-project-url.com) · [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
-    </td>
-  </tr>
-</table>
-
-## Current Focus
-
-- Building: `YOUR_CURRENT_PROJECT_OR_PRODUCT`
-- Exploring: `YOUR_CURRENT_TECHNOLOGY_OR_TOPIC`
-- Improving: `YOUR_CURRENT_SKILL_OR_PROCESS`
-- Open to: `YOUR_PREFERRED_OPPORTUNITIES_OR_COLLABORATIONS`
-
-## Technical Toolkit
-
-### Languages
-
-`TypeScript` `JavaScript` `Python` `Go` `Java` `SQL`
-
-### Frontend
-
-`React` `Next.js` `Vue` `HTML` `CSS` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express` `FastAPI` `REST APIs` `GraphQL`
-
-### Data and Infrastructure
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `AWS` `Linux`
-
-### Engineering Practices
-
-`Testing` `CI/CD` `System Design` `Code Review` `Documentation` `Agile Delivery`
-
-## How I Work
-
-- Start with the user and business outcome
-- Prefer simple solutions over unnecessary complexity
-- Treat maintainability as a feature
-- Make tradeoffs explicit
-- Automate repetitive work
-- Measure results instead of relying on assumptions
-- Document decisions so teams can move faster
-- Leave systems clearer and more reliable than I found them
-
-## Experience Highlights
-
-| Area | Highlights |
-| --- | --- |
-| Product Development | Built and shipped `YOUR_PRODUCT_OR_FEATURE` used by `YOUR_AUDIENCE` |
-| Engineering | Improved `PERFORMANCE_RELIABILITY_QUALITY` by `YOUR_RESULT` |
-| Automation | Reduced `MANUAL_PROCESS_OR_OPERATION` by `YOUR_RESULT` |
-| Collaboration | Worked with `TEAM_SIZE_OR_TEAM_TYPES` across `YOUR_CONTEXT` |
-| Leadership | Led or contributed to `PROJECT_INITIATIVE_OR_TECHNICAL_DIRECTION` |
-
-## Open Source and Community
-
-I believe strong engineering communities are built through useful contributions, thoughtful discussions, and generous knowledge sharing.
-
-- Contributing to: `YOUR_OPEN_SOURCE_PROJECTS`
-- Writing about: `YOUR_TOPICS`
-- Speaking or mentoring: `YOUR_COMMUNITY_ACTIVITY`
-- Interested in collaborating on: `YOUR_INTERESTS`
-
-## GitHub Activity
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="YOUR_NAME's GitHub statistics" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=sunnysharma41918-web&icon=github&color=6A00FF&style=flat-square&label=Profile+Views)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=100&section=footer" width="100%"/>
 
-</div>
-
-## Beyond Code
-
-When I am not building software, I enjoy:
-
-- `YOUR_INTEREST_ONE`
-- `YOUR_INTEREST_TWO`
-- `YOUR_INTEREST_THREE`
-
-These interests shape how I think about creativity, problem-solving, and building things that people genuinely value.
-
-## Let’s Connect
-
-I am always interested in meeting thoughtful people, discussing interesting problems, and exploring opportunities to build useful things together.
-
-- Website: [your-website.com](https://your-website.com)
-- LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/YOUR_USERNAME)
-- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-- X / Twitter: [@YOUR_USERNAME](https://twitter.com/YOUR_USERNAME)
-
-<div align="center">
-
-### Build useful things. Keep learning. Share what works.
+  **⭐ Thanks for stopping by — feel free to explore my repositories!**
 
 </div>
-```
 
-For the strongest public profile, replace generic placeholders with specific evidence such as project users, performance improvements, revenue impact, delivery timelines, or measurable engineering outcomes.
+<!-- Proudly created & remixed with GPRM ( https://gprm.itsvg.in ) -->
