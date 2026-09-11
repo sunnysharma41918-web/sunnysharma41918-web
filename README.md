@@ -108,6 +108,80 @@
 
 ---
 
+<details>
+<summary>⚙️ Setup: enable the Snake & 3D Contribution Graph (click to expand)</summary>
+
+<br/>
+
+The **🧊 3D Contribution Graph** and **🐍 Contribution Snake** sections above need a scheduled GitHub Action to generate their SVGs — they won't render until this is set up.
+
+**Steps:**
+1. In your `sunnysharma41918-web` profile repo, create `.github/workflows/contribution-graphics.yml`.
+2. Paste in the workflow below, commit, and push.
+3. Go to the **Actions** tab → select **Generate Contribution Graphics** → click **Run workflow** once to trigger it immediately.
+
+```yaml
+name: Generate Contribution Graphics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: sunnysharma41918-web
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  contrib3d:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sunnysharma41918-web
+
+      - name: Commit and push 3D graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update 3D contribution graph"
+          git push
+```
+
+Once both jobs have run at least once, the snake and 3D graph images above will resolve automatically.
+
+</details>
+
+---
+
 <div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sunnysharma41918-web&icon=github&color=6A00FF&style=flat-square&label=Profile+Views)
