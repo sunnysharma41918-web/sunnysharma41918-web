@@ -2,19 +2,21 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/sunnysharma41918-web">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Sunny+Sharma+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Sunny+Sharma+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Enthusiast;Turning+Data+Into+Decisions+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <!-- Profile banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Data%20Scientist%20%7C%20ML%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on exciting **full-stack** & **open-source** projects
-- 🌱 I'm currently learning new technologies to level up my skills
-- ⚡ Fun fact: I love turning ideas into clean, working code
+- 📊 I'm a **Data Scientist** who loves turning raw, messy data into clear, actionable insight
+- 🔭 Currently working on **machine learning** & **predictive analytics** projects
+- 🌱 Deepening my skills in **deep learning**, **NLP**, and **MLOps**
+- 📈 Comfortable across the full pipeline: data cleaning → EDA → modeling → deployment
+- ⚡ Fun fact: I think in dataframes and dream in confusion matrices
 - 📫 Reach me at **sunnysharma41918@gmail.com**
 
 ---
@@ -38,8 +40,31 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode,figma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,git,github,docker,tableau,aws" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+## 🧪 What I Work With
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, R, SQL |
+| **Data Handling** | Pandas, NumPy, PySpark |
+| **Machine Learning** | scikit-learn, XGBoost, TensorFlow, PyTorch |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau, Power BI |
+| **MLOps / Deployment** | Docker, Flask/FastAPI, MLflow, AWS |
+| **Notebooks / IDE** | Jupyter, VS Code, Google Colab |
 
 ---
 
@@ -100,7 +125,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Data-Driven Thought of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
