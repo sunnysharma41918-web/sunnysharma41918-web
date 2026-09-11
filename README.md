@@ -59,7 +59,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunnysharma41918-web&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnysharma41918-web&theme=radical&no-frame=true&no-bg=false&row=2&column=4&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -67,8 +67,26 @@
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnysharma41918-web&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnysharma41918-web&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/6A00FF/sunnysharma41918-web" alt="Sunny's GitHub contribution chart" width="100%"/>
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sunnysharma41918-web/sunnysharma41918-web/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+> ℹ️ To enable the 3D graph above, set up the [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action on your profile repo — it renders and commits this SVG daily.
 
 ---
 
