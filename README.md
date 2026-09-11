@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/sunnysharma41918-web">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Sunny+Sharma+%F0%9F%91%8B;Data+Analyst;Turning+Numbers+Into+Narratives;Dashboards+%2B+Insights+%3D+Impact+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://www.vecteezy.com/photo/56364073-colorful-data-visualization-with-charts-and-graphs-depicting-trends-and-statistics-on-a-white-background" />
 </a>
 
 <!-- Profile banner -->
